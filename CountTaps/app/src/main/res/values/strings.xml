@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Count Taps</string>
+    <string name="button_title">Tap Me</string>
+    <string name="text_title">Hello, mi amigo!</string>
+</resources>
